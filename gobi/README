@@ -1,0 +1,9 @@
+This directory includes all the utilities for your tests.
+Simply import anything from here and use it to communicate with you test VMs
+
+You'll always use "from gobi import test" to obtain the test decorator.
+Decorate your test functions with it.
+
+Use "gobi.net" to gain network utilities such as ifconfig and netstat
+
+Use "gobi.remote_os" to obtain an api similar to Python's os package - i.e. remote_os.path.exists

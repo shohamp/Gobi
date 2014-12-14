@@ -1,0 +1,2 @@
+This directory includes the script needed to run tests.
+Simply "cd" to the directory where the test files are at, and run gobi.py
