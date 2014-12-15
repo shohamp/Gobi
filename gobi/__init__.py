@@ -1,1 +1,1 @@
-from fabric.api import task as test
+from fabric.api import task as gobi_test
